@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "title": "Tab P11",
+    "title": "Tab P12",
     "price": 75000,
     "thumbnail": "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8NzY2NTh8aW1hZ2UvcG5nfGgxZC9oNDkvMTEyNzY1MjY3ODA0NDYucG5nfGVhYzg5MzgwNjAzY2ExYTY3NzBlNmI2NDg3OTk0YTBjMDY0NzM2ZjM1NGQ3ZmNjMTVkNzIzN2I0OWE4MTJjNTc"
   }
